@@ -1,2 +1,2 @@
-# hello_keerthi
+# Tic-Toc-Toe
 setting up git
